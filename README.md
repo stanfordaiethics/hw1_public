@@ -14,6 +14,9 @@ conda activate cs281-hw1
 pip install -r requirements.txt  # Run this from root of the repo.
 ```
 
+## Starter Code
+All starter code related to the first homework is in `hw1.py`. Your code should directly go in this file.
+
 ## Submission
 
 Running the following will generate hw1.zip which contains hw1.py
