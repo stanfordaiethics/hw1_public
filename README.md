@@ -1,4 +1,4 @@
-# CS 281. Homework 1. Fairness in the Wild
+# CS 281. Homework 1. Machine Bias
 
 ## Setting the environment
 
@@ -16,6 +16,8 @@ pip install -r requirements.txt  # Run this from root of the repo.
 
 ## Starter Code
 All starter code related to the first homework is in `hw1.py`. Your code should directly go in this file.
+
+You can include your responses to the free-form questions in the jupyter notebook, or in a separate file you include in the dataset.
 
 ## Submission
 
