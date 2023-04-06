@@ -21,7 +21,7 @@ You can include your responses to the free-form questions in the jupyter noteboo
 
 ## Submission
 
-Running the following will generate hw1.zip which contains hw1.py
+Running the following will generate hw1.zip which contains hw1.ipynb
 ```bash
 bash make_submission.sh
 ```
