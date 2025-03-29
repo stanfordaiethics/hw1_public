@@ -11,6 +11,7 @@ Follow the steps below to install anaconda and create the environment for runnin
 ```bash
 conda create -n cs281-hw1 python=3.8 -y
 conda activate cs281-hw1
+cd hw1_public
 pip install -r requirements.txt  # Run this from root of the repo.
 ```
 
