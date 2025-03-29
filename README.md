@@ -18,14 +18,22 @@ pip install -r requirements.txt  # Run this from root of the repo.
 ## Starter Code
 All starter code related to the first homework is in `hw1.ipynb`. Your code should directly go in this file.
 
-You can include your responses to the free-form questions in the jupyter notebook, or in a separate file you include in the submitted zip file.
+You should include your responses to the free-form questions in the jupyter notebook, within a markdown cell.
+
+To launch the notebook, simply run
+```bash
+conda activate cs281-hw1
+cd hw1_public
+jupyter notebook hw1.ipynb
+```
 
 ## Submission
 
-Running the following will generate hw1.zip which contains hw1.ipynb
+To submit your work to gradescope, export your jupyter notebook, `hw1.ipynb` as a PDF file. You can do this by navigating to `File > Save and Export Notebook As > PDF`.
+<!-- Running the following will generate hw1.zip which contains hw1.ipynb
 ```bash
 bash make_submission.sh
-```
-Submit the zip file to Gradescope
+``` -->
+Submit the PDF file to Gradescope.
 
 
