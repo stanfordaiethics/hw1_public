@@ -29,7 +29,7 @@ jupyter notebook hw1.ipynb
 
 ## Submission
 
-To submit your work to gradescope, export your jupyter notebook, `hw1.ipynb` as a PDF file. You can do this by navigating to `File > Save and Export Notebook As > PDF`.
+To submit your work to gradescope, export your jupyter notebook, `hw1.ipynb` as a PDF file. You can do this by navigating to `File > Save and Export Notebook As > PDF`. For coding and written questions, make sure your final answer is clearly visible in the PDF you submit. 
 <!-- Running the following will generate hw1.zip which contains hw1.ipynb
 ```bash
 bash make_submission.sh
